@@ -3,4 +3,4 @@ Lib
 Scripts
 share
 pyvenv.cfg
-.code-workspace
+*.code-workspace
